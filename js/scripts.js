@@ -14,3 +14,6 @@ else if (firstSide!==secondSide && secondSide!==thirdSide) {
 else if (firstSide==secondSide && secondSide!==thirdSide || firstSide!==secondSide && secondSide==thirdSide || firstSide==thirdSide && thirdSide!==secondSide) {
   alert("This is an Isosceles Triangle");
 }
+else{
+  alert("Kindly input actual values to get results!!")
+}
